@@ -6,7 +6,7 @@
 This tool provides encryption and decryption functionalities for JAR files, allowing secure storage and execution without writing decrypted data to disk.
 
 ## 🛠️ Features
-- 🔐 **Encrypt** JAR files using **AES/CBC/PKCS5Padding**
+- 🔐 **Encrypt** JAR files using **AES/GCM/NoPadding**
 - 🔓 **Decrypt** and execute JAR files directly from memory
 - 🚀 **Dynamic class loading** without extracting files
 - 📁 **Supports embedded resources** in JAR files
