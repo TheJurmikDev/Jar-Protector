@@ -26,7 +26,7 @@ java -jar JarTool.jar load encrypted_myfile.jar
 
 ## ⚙️ How It Works
 - 🔑 **AES Encryption**: Uses AES with an initialization vector to secure JAR files.
-- 🏗️ **InMemoryJarClassLoader**: Dynamically loads classes and resources from decrypted JARs.
+- 🏗️ **InMemoryClassLoader**: Dynamically loads classes and resources from decrypted JARs.
 - 📦 **Dependencies**: Uses `javax.crypto`, `java.util.jar`, and `java.nio.file` for encryption and file handling.
 
 ## 📚 Inspiration
