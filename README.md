@@ -3,7 +3,7 @@
 # 🔒 JAR Encryption & Decryption Tool
 
 ## 🚀 Overview
-This tool provides encryption and decryption functionalities for JAR files, allowing secure storage and execution without writing decrypted data to disk.
+This tool provides encryption and decryption for JAR files, allowing secure storage and execution without writing decrypted data to disk.
 
 ## 🛠️ Features
 - 🔐 **Encrypt** JAR files using **AES/GCM/NoPadding**
