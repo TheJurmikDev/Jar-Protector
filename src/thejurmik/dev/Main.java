@@ -30,7 +30,7 @@ public class Main {
     }
 
     private static void printUsage() {
-        System.out.println("Usage: java -jar Cryptor.jar <encrypt|load> <cesta>");
+        System.out.println("Usage: java -jar Cryptor.jar <encrypt|load> <path>");
     }
 
     enum Mode {
