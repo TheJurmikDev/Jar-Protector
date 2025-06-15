@@ -33,3 +33,5 @@ java -jar JarTool.jar load encrypted_myfile.jar
 This project was built using insights from **Stack Overflow** and **GitHub**. I aimed to create a secure way to encrypt and execute JAR files without extracting them.
 
 ---
+
+### 😎 Made By TheJurmik | Visit offical site https://thejurmik.dev
